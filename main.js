@@ -4,7 +4,7 @@
         return app.init();
     });
     app = {
-        text: "Hello World. Enjoy this cool typing effect.",
+        text: "Hello World. Que efeito legal =]",
         index: 0,
         chars: 0,
         speed: 100,
